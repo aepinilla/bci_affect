@@ -17,3 +17,5 @@ setuptools==68.0.0
 six==1.16.0
 tzdata==2023.3
 wheel==0.41.2
+
+mne~=1.6.0
